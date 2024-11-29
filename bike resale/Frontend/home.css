@@ -1,0 +1,687 @@
+  /* navbar */
+*{
+      padding: 0%;
+      margin: 0%;
+      text-decoration: none;
+}
+
+.mainnav{
+      background-color:white;
+}
+
+  .blogo {
+        width: 100px;
+        height: auto;
+        border-bottom: 5px solid rgb(64, 129, 187);
+
+
+  }
+
+  nav {
+        width: 100%;
+        height: 120px;
+
+  }
+
+
+
+  #navbarTogglerDemo01 {
+        background-color: rgb(238, 247, 255);
+        width: 100%;
+        height: 100px;
+        opacity: 10px;
+        border-bottom: 5px solid rgb(64, 129, 187);
+
+        justify-content: space-between;
+  }
+
+  .d-flex {
+        margin-right: 60%;
+
+  }
+  
+
+
+  .btn-outline-success:hover {
+        color: rgb(23, 17, 97);
+        background-color: rgb(238, 247, 255);
+  }
+
+  .linav {
+        font-size: 23px;
+        margin-left: 20px;
+        font-weight: lighter;
+
+
+  }
+
+  .me-2 {
+        width: 100%;
+        border-color: rgb(241, 243, 194);
+  }
+
+  .nav-item {
+        padding: 20px;
+
+  }
+
+
+  .sear {
+        border-radius: 100px;
+      padding-right: 100px;
+        
+        width: 400px;
+        height: 40px;
+        margin: 30px ;
+
+
+  }
+
+
+
+  .heart:hover {
+        color: red;
+  }
+
+  .fah {
+        margin-left: 70%;
+        background-color: rgb(238, 247, 255);
+        font-size: x-large;
+        border-radius: 40px;
+        height: 40px;
+        margin-top: 30px;
+        display: flex;
+
+  }
+
+
+  .btn {
+        border-radius: 40px;
+        height: 40px;
+        margin-top: 30px;
+
+  }
+
+  .cart {
+        margin-left: 60px;
+        padding-bottom: 5%;
+
+
+  }
+
+
+  #cart1 {
+
+        width: 35px;
+        height:35px;
+       
+
+  }
+  .mar_play{
+      margin-bottom: 8%;
+  }
+
+  .login {
+        font-size: 12px;
+
+        margin-left: 50px;
+        margin-top: 35px;
+
+
+
+  }
+
+
+
+  /* next of navbar */
+  .btype {
+        list-style: none;
+        font-size: 22px;
+        display: flex;
+        flex-direction: row;
+       
+
+        justify-content: space-around;
+       
+
+
+
+  }
+
+  
+
+  #text_decor{
+      text-decoration: none;
+      color:  rgb(44, 57, 109); ;
+  }
+  .btype2 {
+        background-color: rgb(238, 247, 255);
+        width: 100%;
+        overflow: hidden;
+        
+
+  }
+
+  .bt3:hover {
+        /* color: rgb(77, 134, 156); */
+        color: black;
+        border-bottom: 5px solid rgb(34, 55, 105);
+        border-radius: 5px;
+
+
+
+
+  }
+
+
+
+  /* carousel */
+  .carousel1 {
+        width: 100%;
+
+  }
+
+  .w-100 {
+        height: 600px;
+  }
+
+
+
+  /* after .carousel1 */
+
+
+  .used_b{
+      font-size: xx-large;
+      margin-left: 20px;
+      margin-top: 10px;
+  }
+
+  .pb {
+        border: 30px rgb(238, 247, 255);
+  }
+
+  .brandli {
+        font-size: xx-large;
+        margin: 15px 0px 23px 0px;
+        margin-left: 20px;
+        font-weight: bold;
+        list-style-type: none;
+        
+
+  }
+
+  .brands {
+        border: 1px solid rgb(238, 247, 255);
+        width: 100%;
+        align-items: center;
+        margin-left: 22px;
+        border-bottom: 4pxpx solid;
+
+
+
+  }
+
+  .brandbikes {
+        padding: 22px;
+        margin-left: 100px;
+  }
+
+  .brandimage {
+
+        padding: 4px;
+        margin: 8px;
+
+  }
+
+
+
+
+
+  .headsbike {
+        font-size: xx-large;
+        margin-left: 20px;
+
+        padding: 20px;
+
+
+
+
+  }
+
+  .Bikes {
+        display: grid;
+        grid-template-columns: auto auto auto auto;
+
+        padding: 6px;
+
+
+
+
+
+
+  }
+
+
+  .headbike {
+        font-size: xx-large;
+        font-style: italic;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: rgb(193, 29, 100);
+        border-bottom: 2px solid white;
+        
+
+  }
+  .hbike{
+      text-decoration: none;
+      color: rgb(107, 6, 36);
+     
+
+  }
+
+  .btn-primary {
+        margin-top: 3px;
+  }
+
+  #img11 {
+        height: 400px;
+     
+
+
+        border: 1px solid rgb(55, 6, 6);
+        border-radius: 22px 22px 0px 0px;
+
+
+  }
+
+  #cardgap {
+        margin-left: 120px;
+        width: 400px;
+  }
+
+  #cardgap1 {
+        margin-left: 120px;
+        margin-right: 120px;
+  }
+
+
+  #borderb {
+        border: 1px solid rgb(238, 247, 255);
+
+     
+
+        background-color: rgb(174, 189, 205);
+        padding-bottom: 40px;
+        margin: 40px 40px 40px 40px;
+        border-radius: 5px;
+     
+        
+
+
+  }
+
+
+  .card {
+
+
+        background-color: white;
+        border-radius: 22px;
+
+  }
+
+  .heart_fa{
+      margin-left: 170px;
+      font-size: x-large;
+      color: white;
+      border: 5px solid red;
+     
+      border-radius: 50%;
+      background-color: red
+      
+      
+  }
+
+  .heart_fa:hover{
+      background-color: white;
+      border: 5px solid white;
+      color: red;
+      
+  }
+
+
+
+
+  .linkbike3 {
+        margin-top: 170px;
+  }
+
+
+  #textcard {
+        color: rgb(17, 0, 0);
+
+  }
+
+  #videtail {
+        background-color: white;
+        color: red;
+        border: 1px solid rgb(173, 38, 38);
+        width: 320px;
+        font-size: 18px;
+  }
+
+  #videtail:hover {
+        background-color: red;
+        color: white;
+  }
+
+
+  /* card2 */
+  .borderbike2{
+      background-color: rgb(166, 177, 189);
+      margin: 0px 40px 0px 40px;
+      border-radius: 5px;
+  }
+  .headbike2{
+      font-size: xx-large;
+        font-style: italic;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+        border-bottom: 2px solid rgb(180, 119, 119);
+
+  }
+
+  .hbike2{
+      color: rgb(108, 25, 50);
+      text-decoration: none;
+  }
+
+  
+  /* card3 */
+
+  .borderbike3{
+      background-color: rgb(166, 177, 189);
+      margin: 0px 40px 0px 40px;
+      border-radius: 5px;
+      margin-top:40px ;
+  }
+  .headbike3{
+      font-size: xx-large;
+        font-style: italic;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+        border-bottom: 2px solid rgb(180, 119, 119);
+
+  }
+
+  .hbike3{
+      color: rgb(108, 25, 50);
+      text-decoration: none;
+  }
+
+  /* card4 */
+  .borderbike4{
+      background-color: rgb(196, 202, 209);
+      margin: 0px 40px 0px 40px;
+      border-radius: 5px;
+      margin-top:40px ;
+    
+  }
+  .headbike4{
+      font-size: xx-large;
+        font-style: italic;
+        text-align: center;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+       
+        border-bottom: 2px solid rgb(180, 119, 119);
+
+  }
+
+  .hbike4{
+      color: rgb(107, 6, 36);
+      text-decoration: none;
+  }
+
+
+  /* footer */
+
+
+  
+  .foot_h5
+  {
+    
+      display: flex;
+      flex-direction: row;
+      justify-content:  space-evenly;
+      background-color: rgb(5, 19, 5);
+      color: white;
+      font-family: arial;
+      padding-top: 40px;
+      padding-bottom: 40px;
+      margin-top: 10px;
+  }
+ .foot_about{
+      width: 33.33%;
+      
+
+  }
+
+.card_blog{
+      font-family: Arial,  sans-serif;
+      font-size: large;
+      height: 30px;
+      text-align: center;
+      width: 90px;
+      color:white;
+      background-color:rgb(202, 26, 26);
+      border-radius: 20px;
+      margin-left: 40px;
+
+}
+
+
+/* blog */
+
+.blog{
+      padding: 0%;
+      margin: 0;
+}
+
+.blog_img{
+      background-image: url(images/blog4.jpg);
+      backdrop-filter: blur(100px);
+   background-size: cover;
+   background-position:right;
+   
+      padding: 0px 20px;
+      font-style: none;
+      opacity: 100;
+      margin-top: 20px;
+      
+
+}
+
+
+.head_blog{
+      color: white;
+      font-style: italic;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-seriffz ;
+      text-transform: uppercase;
+      font-size: xx-large;
+      font-family: Arial,  sans-serif;
+}
+
+.para_blog{
+      color: rgb(209, 25, 25);
+      font-style: italic;
+      letter-spacing: 1px;
+      line-height: 50px;
+      font-size: x-large;
+      text-align: left;
+
+      
+      
+      
+
+}
+.blog_para1{
+      text-align: center;
+      font-style: italic;
+      font-weight: 300px;
+      font-family: 'Courier New', Courier, monospace;
+      color: tomato;
+}
+.blog_video{
+      margin-top: 20px;
+       display: flex;
+      justify-content: right;
+       align-items: right; 
+       
+     
+
+
+}
+.video_blog{
+     width: 100%;
+      height: 850px;
+      
+}
+
+.img_blog{
+      width: 600px;
+      padding: 10px;
+
+}
+
+.blog_image{
+      display: flex;
+      background-color: rgb(147, 59, 59);
+      padding: 20px;
+      margin-top: 20px;
+      
+}
+.imgcon_blog{
+      font-size: x-large;
+      font-weight: 300;
+      font-style: italic;
+      color: white;
+      text-align: justify;
+      padding: 60px 60px 20px 60px;
+      
+}
+
+.img_blog1{
+      width: 450px;
+      padding: 10px;
+
+}
+
+.blog_image1{
+      display: flex;
+      background-color: rgb(164, 122, 122);
+      padding: 20px;
+      margin-top: 20px;
+      
+      
+}
+.imgcon_blog1{
+      font-size: x-large;
+      font-weight: 300;
+      font-style: italic;
+      color: white;
+      text-align: justify;
+      padding: 60px 60px 20px 60px;
+      
+}
+
+.img_blog2{
+      width: 450px;
+      padding: 10px;
+
+}
+
+.blog_image2{
+      display: flex;
+      background-color: rgb(54, 21, 21);
+      padding: 20px;
+      margin-top: 20px;
+      
+      
+}
+.imgcon_blog2{
+      font-size: x-large;
+      font-weight: 300;
+      font-style: italic;
+      color: white;
+      text-align: justify;
+      padding: 60px 60px 20px 60px;
+      
+}
+.foot_blog{
+      text-align: center;
+      font-size: x-large;
+      font: 300;
+      font-family: 'Courier New', Courier, monospace;
+}
+
+
+.sig-em{
+      height: 40px;
+      letter-spacing: 5px;
+      margin-top: 20px;
+      text-align: center;
+      border: 1px solid ;
+      border-radius: 20px;
+      width: 300px;
+      
+      
+}
+
+
+.login_reg{
+background-image: url(images/blogo.png);
+
+ 
+      background-color: rgba(255, 255, 255, 0.5); 
+      backdrop-filter: blur(10px);  
+border-radius: 10px;
+height: 650px;
+background-size: 100%;
+      width: 45%;
+     
+     margin: 5% 0 5% 25%;
+
+      text-align: center;
+      padding-top: 10%;
+      padding-bottom: 10%;
+           
+}
+.back_log{
+background-image:url(images/blog1.jpg);
+background-repeat: no-repeat;
+width: 100%;
+
+
+}
+.log_head{
+      padding-bottom: 40px;
+      color: red;
+      text-align: center;
+      font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+      font-weight: 900;
+      padding-bottom: 40px;
+      
+}
+.para_log{
+    margin-top: 40px;
+    font-size: large;
+}
+
+.log_x{
+      text-align: right;
+      margin-right: 20px;
+    
+      font-size: x-large;
+     
+}
